@@ -1,0 +1,16 @@
+{
+  "name": "petsforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write 'src/pom/*.{ts}'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "prettier": "3.0.3"
+  }
+}
